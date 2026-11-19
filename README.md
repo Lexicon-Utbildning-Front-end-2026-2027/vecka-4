@@ -50,7 +50,7 @@ Idag blir det lite om färger, allt från hex rgb till oklch. Hur vi kan moderni
 * [Animated Gradients and more](https://paletacolorpro.com/en/animated-gradients)
 
 #### 🛠️ Övningar
-* [Color Cards övning](https://github.com/Lexicon-Utbildning-Front-end-2025-2026/Exercise-Color-Cards)
+* [Color Cards övning](https://github.com/Lexicon-Utbildning-Front-end-2026-2027/vecka-4/tree/main/tisdag/colors)
 
 ---
 
