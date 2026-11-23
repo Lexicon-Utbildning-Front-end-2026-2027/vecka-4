@@ -27,7 +27,7 @@ Idag går vi igenom hur vi bygger formulär i HTML. Vi tittar på olika typer av
 * [WAI Forms (läs Labeling Controls, Grouping Controls och Form Instructions, övrigt är frivillig)](https://www.w3.org/WAI/tutorials/forms/)
 
 #### 🛠️ Övningar
-* [(Formulär) - Skapa formulär](https://github.com/linuszocom/forms-uppgift/blob/main/README.md)
+
 
 ---
 
