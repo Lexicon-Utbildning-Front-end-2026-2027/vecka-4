@@ -74,7 +74,7 @@ Vi lär oss om olika typer av licenser på koden som vi hämtar från Github, oc
 * [Coder Coder - How to resolve merge conflicts in Git](https://www.youtube.com/watch?v=1pwOLYnNDLo)
 
 #### 📃 Läsning
-* Git fusklapp
+* [Git Command Cheatsheet](/onsdag-git/GIT-Commands.jpg)
 
 ---
 
